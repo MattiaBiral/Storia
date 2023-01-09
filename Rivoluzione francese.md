@@ -67,10 +67,10 @@ Inventata dal **medico Joseph-Ignace Guillotin** e messa in funzione per la prim
 Il popolo insorge -> Intervento della Guardia nazionale -> rottura con l'Assemblea
 
 Nascono Club sulla base di **orientamenti politici**
-| Club        | Orientamento                         | Forma di Governo         | Rappresentanti |
-|-------------|--------------------------------------|--------------------------|----------------|
-| Foglianti   | Moderati, monarchici, costituzionali | Monarchia costituzionale | La Fayette |
-| Giacobini   | Repubblicani, democratici            | Repubblica               | Roberspierre |
+| Club        | Orientamento                         | Forma di Governo         | Rappresentanti            |
+|-------------|--------------------------------------|--------------------------|---------------------------|
+| Foglianti   | Moderati, monarchici, costituzionali | Monarchia costituzionale | La Fayette                |
+| Giacobini   | Repubblicani, democratici            | Repubblica               | Roberspierre              |
 | Cordiglieri | Radicali, rivoluzionari              | Repubblica               | Danton, Saint Just, Marat |
 
 L'**Assemblea Nazionale viene sciolta** perchè ha portato a termine il suo compito
@@ -134,7 +134,7 @@ Provvedimenti della convenzione:
     - Consiglio dei 500 -> presentare e discutere le leggi
     - Consiglio degli Anziani -> approvare o respingere le leggi
   - Direttorio formato da 5 membri
-- Suffragio censitario
+- Suffragio censitario maschile
 - Liberismo economico
 
 > - 1795: Crisi economica e finanziaria -> Terrore Bianco: interventi militari per reprimere ogni tipo di protesta
