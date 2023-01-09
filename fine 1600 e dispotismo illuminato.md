@@ -1,0 +1,84 @@
+# Fine 1600
+- ripresa demografica
+  - aumento popolazione
+  - stabilità
+  - +60% -> 190 milioni europa
+  - +60% -> 600 milioni asia
+  - +50% -> 24 milioni america
+  - minore impatto carestie e guerre
+    - miglioramento del clima
+    - globalizzazione
+    - miglioramento igienico
+    - abbassamento età matrimoniale
+- ripresa economica
+  - agricola
+    - crescente domanda
+    - ampliamento terre
+      - rotazione più complessa
+      - semine ripetute
+      - intensificazione delle colture
+      - tolte dai pascoli -> stabulazione, meno pascolo
+    - tecnologia
+      - nuove colture
+      - aratro metallico
+      - seminatrice meccanica
+      - trebbiatrice
+  - attività manifatturiera
+    - piccole aziende
+    - prodotti di serie
+    - organizzazione del lavoro in fasi distinte
+    - lavori a domicilio
+  - commercio
+    - espanzione interna
+      - sfruttamento colonie
+      - tratta degli schiavi
+      - scambi
+    - attività finanziaria
+      - borse
+      - assicurazioni
+      - banche
+        - investimento
+        - risparmio
+        - conversione valute
+- espansione geografica
+  - ripresa esplorazioni
+  - carta politica europea con nuovi confini
+
+# Dispotismo illuminato
+- riforme
+- rafforzare l'autorità dello stato
+- riforme proposte per:
+  - organizzazione burocratica con riforma dei codici e amministrare la giustizia
+  - imporre le tasse anche a nobiltà e clero
+  - estendere giurisdizione sulle chiese nazionali
+  - sviluppare l'economia
+- molti sovrani introdussero leggi che:
+  - abolirono la tortura
+  - limitarono la pena di morte
+  - diffusero la scolarizzazione
+  - diffusero la tolleranza religiosa
+- fisco
+  - imposte dirette e indirette
+- giustizia
+  - unico sistema giuridico equo
+- riforme
+  - Russia Caterina II
+    - tolleranza religiosa
+    - libertà di stampa
+    - diffusione istruzione
+    - confisca beni religiosi chiesa ortodossa
+    - riformismo moderato, rimane paese feudale
+  - Prussia Federico II il Grande
+    - istruzione fino a 13 anni obbligatoria
+    - tolleranza religiosa
+    - diffusione cultura
+    - apertura idee
+    - abolizione tortura
+    - limiti alla pena di morte
+    - riformismo moderato
+  - Austria Maria Teresa d'Asburgo
+    - catasto
+    - nuovo codice penale
+    - molte riforme
+    - riformismo radicale
+  - mancate riforme in Francia con i Borboni
