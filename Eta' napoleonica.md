@@ -20,3 +20,28 @@ Il Direttorio decise di inviare **Napoleone in Egitto**, ma ebbe un **esito ince
 
 Nel frattempo si era creata una **seconda coalizione antifrancese**, Napoleone riuscì a **infliggere agli austriaci una durissima sconfitta**
 > Marzo 1802: **Pace di Amiens**
+
+Mentre la Francia era destabilizzata Napoleone rientrò dall'Egitto e mise in atto un **colpo di Stato** nel novembre 1799
+
+La nuova costituzione del 1799 pose **fine alla rivoluzione francese** anche con l'eliminazione del preambolo
+
+> Luglio 1801: **concordato con papa Pio VII**:
+> - Lo Stato riconosceva la preminenza in Francia del cattolicesimo e si impegnava nel sostentamento del clero
+> - La Chiesa rinunciava a rivendicare la restituzione dei beni ecclesiastici
+
+---
+
+## Le strutture amministrative ed economiche della Francia napoleonica
+
+Napoleone riformò lo Stato francese introducendo il **sistema metrico decimale** e il **codice civile**, riorganizzò il **sistema amministrativo** tramite una gestione **centralistica**:
+- I **prefetti** dovevano sovraintendere all'intero sistema delle funzioni pubbliche
+- La **polizia** venne riorganizzata per prevenire le forme di dissenso
+
+Venne anche riorganizzata l'istruzione pubblica: grande attenzione venne riservata ai **licei**, al settore degli **studi tecnici** e alla **scuola politecnica**
+
+> 1804: **Codice civile**: si riaffermavano alcuni principi della rivoluzione interpretati però in senso restrittivo
+
+---
+
+## L'Europa contro Napoleone
+
