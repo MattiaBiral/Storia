@@ -14,10 +14,14 @@ Nella primavera del **1796** il governo decise di rilanciare le campagne militar
 
 > Napoleone ruba i **4 cavalli** della Basilica di San Marco
 
+![Cartina](./img/Img_campagna_italia_napoleone.png)
+
 Il generale potè poi puntare verso **Vienna**
 
 > Ottobre 1797: **Pace di Campoformio**:
 > La francia ampliò i propri territorio raggiungendo i suoi **confini naturali** e annettendo il **Belgio** e la **Lombardia**. Inoltre creò le **repubbliche sorelle**, tra cui in Italia quelle **ligure**, **cispadana** e **cisalpina**. La Francia sfuttò le **risorse** di queste repubbliche
+
+![Cartina](./img/Img_italia_napoleonica.png)
 
 La campagna d'Italia non bastò a risolvere i **problemi dell'economia francese**, la **Gran Bretagna** infatti gli **impediva di ricevere materie prime**
 
@@ -33,9 +37,6 @@ Nel 1798 il Direttorio decise di inviare **Napoleone in Egitto** per **ostracola
 
 ## Napoleone prende il potere
 
-Nel frattempo si era creata una **seconda coalizione antifrancese** che aveva già **abbattuto tutte le repubbliche sorelle**, Napoleone riuscì a **infliggere agli austriaci una durissima sconfitta**
-> Marzo 1802: **Pace di Amiens**
-
 Mentre la Francia era destabilizzata Napoleone rientrò dall'Egitto e mise in atto un **colpo di Stato** nel novembre 1799 **eliminando il Direttorio** e costituendo un **Consolato** di cui è 1^ console: con potere legislativo
 
 La nuova Costituzione del 1799 pose **fine alla rivoluzione francese** anche con l'eliminazione del preambolo
@@ -44,11 +45,16 @@ La nuova Costituzione del 1799 pose **fine alla rivoluzione francese** anche con
 > - Lo Stato riconosceva la preminenza in Francia del cattolicesimo e si impegnava nel sostentamento del clero
 > - La Chiesa rinunciava a rivendicare la restituzione dei beni ecclesiastici
 
+Nel frattempo si era creata una **seconda coalizione antifrancese** che aveva già **abbattuto tutte le repubbliche sorelle**, Napoleone riuscì a **infliggere agli austriaci una durissima sconfitta**
+> Marzo 1802: **Pace di Amiens**
+
 > 1804: Napoleone diventa **imperatore** e **re d'Italia**
 
 Nel 1805 è ancora guerra, in 4 anni Napoleone con una grande armata **batte austriaci, russi e prussiani** e impone il suo dominio su tutta l'Europa
 
 > 1807: Napoleone fa costruire l'arco di trionfo
+
+![Cartina](./img/Img_successi_napoleonici.png)
 
 ---
 
@@ -70,11 +76,13 @@ Napoleone **assedia Mosca**, ma deve **ritirarsi** per l'arrivo dell'**inverno**
 
 In seguito scappa e riprende il potere per **cento giorni**
 
-> 1815: Napoleone viene sconfitto nella **battaglia di Waterloo** che segna la fine del suo impero e del suo potere, i 4 cavalli vengono restituiti a Venezia
+> 1815: Napoleone viene sconfitto nella **battaglia di Waterloo** che segna la fine del suo impero e del suo potere, i 4 cavalli vengono restituiti a Venezia, Napoleone viene **esiliato** nell'isola di **Sant'Elena**
+
+> 1821: Morte di Napoleone
 
 ---
 
-## Le strutture amministrative ed economiche della Francia napoleonica
+## Le riforme di Napoleone
 
 Napoleone riformò lo Stato francese introducendo il **sistema metrico decimale** e il **codice civile**, riorganizzò il **sistema amministrativo** tramite una gestione **centralistica**:
 - I **prefetti** dovevano sovraintendere all'intero sistema delle funzioni pubbliche
@@ -83,4 +91,18 @@ Napoleone riformò lo Stato francese introducendo il **sistema metrico decimale*
 
 Venne anche riorganizzata l'istruzione pubblica: grande attenzione venne riservata ai **licei**, al settore degli **studi tecnici** e alla **scuola politecnica**
 
-> 1804: **Codice civile** o **napoleonico**: si riaffermavano alcuni principi della rivoluzione interpretati però in senso restrittivo
+> 1804: **Codice civile** o **napoleonico**: non ci sono distinzioni di classe sociale, ma le donne non hanno comunque gli stessi diritti degli uomini, introdotto nel Ragno d'Italia nel 1806
+
+Vengono riformate anche
+- Le **misure**:
+  - **Metro**
+  - **Litro**
+  - **Chilogrammo**
+- La raccolta dei rifiuti
+- **Registri** di nascite, matrimoni e decessi diventano compito del municipio e molti compiti che erano prima del sacerdote vengono attribuiti al sindaco
+- Viene inventato il **telegrafo ottico**
+
+### Il catasto
+| Teresiano | Napoleonico | Oggi |
+|-----------|-------------|------|
+| Beni e confini misurati in maniera esatta <br> Suddivisi in lotti <br> Suddivisi per uso, rendita ed estensione <br> Utilizzo delle parcelle milanesi <br> Mappe dettagliate | Catasto unico e centralizzato <br> Uso delle misure unificate <br> Strumento affidabile per tassare equamente le proprietà fondiarie dei cittadini <br> Esempio per tutta Europa | Online <br> Mappe omogenee e unificate a livello nazionale <br> Scopo fiscale <br> Organizzazione dell'urbanistica, civile e giuridica <br> Suddivisione di terreni e fabbricati |
