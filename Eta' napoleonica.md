@@ -91,7 +91,7 @@ Napoleone riformò lo Stato francese introducendo il **sistema metrico decimale*
 
 Venne anche riorganizzata l'istruzione pubblica: grande attenzione venne riservata ai **licei**, al settore degli **studi tecnici** e alla **scuola politecnica**
 
-> 1804: **Codice civile** o **napoleonico**: non ci sono distinzioni di classe sociale, ma le donne non hanno comunque gli stessi diritti degli uomini, introdotto nel Ragno d'Italia nel 1806
+> 1804: **Codice civile** o **napoleonico**: non ci sono distinzioni di classe sociale, ma le donne non hanno comunque gli stessi diritti degli uomini, introdotto nel Regno d'Italia nel 1806
 
 Vengono riformate anche
 - Le **misure**:
