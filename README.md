@@ -4,3 +4,4 @@
 - [Rivoluzione americana](./Rivoluzione%20americana.md)
 - [Rivoluzione francese](./Rivoluzione%20francese.md)
 - [Eta' napoleonica](./Eta'%20napoleonica.md)
+- [Rivoluzione industriale](./Rivoluzione%20industriale.md)
