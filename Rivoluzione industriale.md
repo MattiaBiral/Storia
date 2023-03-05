@@ -83,6 +83,8 @@ La dittatura del proletariato porterà all'**estinzione dello Stato**
 Il comunismo sarà una società senza Stato e senza classi  
 **Ciascuno produce secondo le sue capacità e riceve secondo i suoi bisogni**
 
+---
+
 # Ideologie politiche del 1800
 
 ## Liberalismo
