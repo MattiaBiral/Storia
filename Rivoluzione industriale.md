@@ -90,7 +90,7 @@ Il comunismo sarà una società senza Stato e senza classi
 ## Liberalismo
 
 Rivendica la **libertà dell'individuo**, appoggia la monarchia parlamentare/costituzionale  
-I **poteri** dello Stato devono essere **separati** e definiti in una **Costituzione**
+I **poteri** dello Stato devono essere **separati** e definiti in una **Costituzione**  
 Suffragio censitario  
 La società e lo Stato hanno come compito la piena realizzazione degli individui, **il ruolo dello Stato è di controllo**, neutrale per quanto riguarda l'economia e le questioni sociali  
 **Tutti sono uguali di fronte alla legge**, ma lo Stato non deve tentare di eliminare le differenze sociali  
