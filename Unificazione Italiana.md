@@ -82,8 +82,91 @@ Italia: Palermo, Venezia, Milano, Granducato di Toscana, Brescia, inizia la prim
 
 ## Nascita del Regno d'Italia
 
+### Regno di Sardegna
+
+Unico stato della penisola italiana in cui, dopo i moti del '48-49, non viene portata avanti una politica reazionaria:
+- Mantenimento Statuto Albertino
+- Moderata politica riformista
+- Politica estera favorevole all'unificazione
+
+### Cavour
+
+Il merito principale va a Cavour sostenitore di un liberalismo democratico:
+- Antisocialista
+- Antirepubblicano, non crede nelle insurrezioni
+- Antiaustriaco
+- Convinto che la 'questione italiana' andava collocata nel contesto internazionale con l'aiuto di uno Stato straniero forte
+
+Politica di Cavour:
+- Interna
+  - Maggioranza di ce-dx con sx moderata
+    - Stabilità di governo
+    - Appoggio all'indipendenza
+    - Rafforzamento della Monarchia Sabauda
+  - Repressione delle insurrezioni
+  - Società Nazionale Italiana
+- Economia
+  - Agricoltura modernizzata con abolizione dei dazi sul grano
+  - Industria rinnovata e rafforzata, agevolazioni alle imprese private
+  - Basse tariffe doganali
+  - Infrastrutture
+  - Aumento imposte dirette
+  - Banca Nazionale
+- Estera
+  - Guerra in Crimea e partecipazione alla Conferenza di Parigi
+    - Accordi di Plombieres di tipo difensivo con la Francia
+  - Eliminazione privilegi feudali
+  - Soppressione degli ordini religiosi
+
+### Proposte per l'unificazione
+
+Linea liberal-moderata:
+- Obiettivi
+  - Indipendenza e unificazione
+- Azioni
+  - Gradualità del processo guidato dai sovrani
+  - No azioni insurrezionali
+- Scelte politiche
+  - Monarchia costituzionale
+  - Suffragio ristretto/censitario
+  - No intervento dello Stato nelle questioni sociali
+- Appoggio interessi
+  - Borghesia terriera e industriale
+- Autori
+  - Gioberti
+  - Balbo
+  - Massimo d'Azeglio
+
+- Obiettivi
+  - Indipendenza e unificazione
+- Azioni
+  - Iniziativa popolare e insurrezionale a favore di una repubblica
+- Scelte politiche
+  - Repubblica o federazione
+  - Suffragio universale
+  - Intervento dello Stato
+- Appoggio interessi
+  - Media e piccola borghesia
+  - Contadini e operai
+- Autori
+  - Cattaneo
+  - Mazzini
+
 ### 1^ Guerra di indipendenza
 
 Onda di successi, Carlo Alberto sconfitto a Custoza, ritiro delle truppe, firma l'armistizio a Salasco  
 Nuova ondata rivoluzionaria  
 Carlo Alberto riprende la 1^ guerra di indipendenza contro l'Austria ma viene sconfitto a Novara, abdica e Vittorio Emanuele II firma l'armistizio di Vignale
+
+### 2^ Guerra di indipendenza
+
+Alleanza francese contro l'Austria, battaglie per la conquista del Lombardo-Veneto, ma Napoleone III firma l'armistizio di Villafranca con l'Austria:
+- Regno di Sardegna ottiene: Lombardia, Emilia e Toscana
+- Francia ottiene: Nizza e Savoia
+
+### Spedizione dei Mille
+
+Garibaldi parte da Quarto, arriva in Sicilia e in pochi giorni ottiene successi contro l'esercito borbonico per proseguire verso l'Italia centrale  
+L'esercito piemontese scende invadendo lo Stato Pontificio e liberando Marche e Umbria  
+Garibaldi incontra a Teano il Re Vittorio Emanuele II e gli consegna quanto conquistato  
+Tramite vari plebisciti si annettono i territori al Regno di Sardegna
